@@ -73,3 +73,6 @@ Insert multiple person.
 <!-- TABLE_GENERATE_END -->
 ### Iteration 6: Show the records
 Show the records on your table people
+### Iteration 7: Delete the table people
+Delete de table people
+
