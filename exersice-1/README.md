@@ -23,7 +23,7 @@
 
 ## Deliverables
 
-Write your JavaScript code in `js/index.js`. When submitting, submit the whole  repo.
+Write your sql code in `exersice-1.sql`.
 
 ### Iteration 1: Create a DB 
 Create a DB called store_db.
