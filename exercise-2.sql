@@ -8,5 +8,8 @@ INSERT INTO pasteles VALUES (4,"Salon",350);
 
 SELECT*FROM pasteles;
 
+DROP TABLE pasteles;
+
+
 
 
