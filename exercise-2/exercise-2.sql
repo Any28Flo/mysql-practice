@@ -1,4 +1,4 @@
---Code
+--Code || Exercise 2
 
 --Create the table pastries
 CREATE DATABASE pastries_db;

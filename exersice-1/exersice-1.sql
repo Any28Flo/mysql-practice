@@ -1,4 +1,4 @@
---Here goes your code
+--Here goes your code  || Exercise 1
 
 --Create a database
 CREATE DATABASE STORE_DB;
